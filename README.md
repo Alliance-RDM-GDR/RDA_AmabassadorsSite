@@ -1,5 +1,7 @@
 # RDA Domain Ambassadors Website
 
+🌐 **Live Website:** [https://alliance-rdm-gdr.github.io/RDA_AmabassadorsSite/](https://alliance-rdm-gdr.github.io/RDA_AmabassadorsSite/)
+
 This is the official repository for the **RDA Domain Ambassadors** website. The goal of this site is to centralize materials, resources, videos, and guides for community members and the general public, promoting FAIR data principles and Research Data Alliance (RDA) outputs.
 
 ## Project Description
