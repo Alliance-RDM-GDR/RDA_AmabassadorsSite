@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the RDA Domain Ambassadors",
+    "section": "",
+    "text": "Connecting the global Research Data Alliance community with specific research domains to promote FAIR data principles.\nExplore Resources"
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Welcome to the RDA Domain Ambassadors",
+    "section": "What We Do",
+    "text": "What We Do\nThe RDA Domain Ambassadors are a network of disciplinary experts who work to navigate daily research data challenges.\n\n\n\n\n📚 Resources\nAccess curated documents, guides, and tools.\nView Library »\n\n\n\n\n\n\n👥 Ambassadors\nMeet the experts leading domain data practices.\nMeet Ambassadors »\n\n\n\n\n\n\n✍️ Contribute\nHelp grow our shared knowledge base.\nGet Involved »"
+  },
+  {
+    "objectID": "pages/ambassadors/index.html",
+    "href": "pages/ambassadors/index.html",
+    "title": "Meet the Ambassadors",
+    "section": "",
+    "text": "Welcome to the RDA Domain Ambassadors directory. Here you can find experts across various research domains.\n(Note: This page will be updated to automatically pull from our dynamic ambassador database.)\n\n\n\n\nJane Doe\nDomain: Agricultural Sciences\nJane is an expert in crop data management and FAIR practices for agricultural datasets.\nContact Jane\n\n\n\n\n\n\nJohn Smith\nDomain: Digital Humanities\nJohn focuses on preserving historical texts and interoperability standards for the humanities.\nContact John"
+  },
+  {
+    "objectID": "pages/resources/index.html",
+    "href": "pages/resources/index.html",
+    "title": "Resource Library",
+    "section": "",
+    "text": "Welcome to the Resource Library. This is a centralized hub for documents, tutorials, and useful links curated by our ambassadors."
+  },
+  {
+    "objectID": "pages/resources/index.html#documents-guides",
+    "href": "pages/resources/index.html#documents-guides",
+    "title": "Resource Library",
+    "section": "📄 Documents & Guides",
+    "text": "📄 Documents & Guides\n\nFAIR Data Principles Quickstart\nData Management Plan Templates"
+  },
+  {
+    "objectID": "pages/resources/index.html#video-hub",
+    "href": "pages/resources/index.html#video-hub",
+    "title": "Resource Library",
+    "section": "🎥 Video Hub",
+    "text": "🎥 Video Hub\n\nWebinar: Introduction to the RDA\nTutorial: Setting up your first data repository"
+  },
+  {
+    "objectID": "pages/resources/index.html#useful-links",
+    "href": "pages/resources/index.html#useful-links",
+    "title": "Resource Library",
+    "section": "🔗 Useful Links",
+    "text": "🔗 Useful Links\n\nRDA Global Website\nFind a Working Group\n\n\nNote: In the next phase, this library will be dynamically generated from a central data file to allow easy filtering and sorting."
+  },
+  {
+    "objectID": "docs/ARCHITECTURE.html",
+    "href": "docs/ARCHITECTURE.html",
+    "title": "Project Architecture",
+    "section": "",
+    "text": "This repository contains the source code for the RDA Domain Ambassadors website, built using Quarto. It is designed to be a modern, dynamic static site that centralizes resources and ambassador profiles for the Research Data Alliance community.\n\n\n\nTo keep the project organized as it grows and participants add more resources, we use a modular and scalable structure:\n\n\n\n_quarto.yml: Main Quarto configuration (navigation, metadata, theme).\nstyles.scss: Custom styles (RDA colors, animations).\nindex.qmd, about.qmd: Main static pages.\n\n\n\n\n\ndocs/ARCHITECTURE.md: Technical project documentation (this file).\ndocs/UPDATES.md: History of changes and updates.\n\n\n\n\nInstead of creating a page for each resource, we use simple databases: - data/ambassadors.csv: Information about the ambassadors. - data/resources.csv: Metadata for all resources (title, author, domain, file link).\n\n\n\nTo avoid cluttering the root with .qmd files: - pages/ambassadors/index.qmd: Ambassadors directory. - pages/resources/index.qmd: Main resource search engine. - pages/contribute/index.qmd: Contribution guide for users.\n\n\n\nThis is where physical files (PDFs, images) are stored, organized logically to avoid chaos: - assets/images/ambassadors/: Profile pictures. - assets/resources/domains/agriculture/: Domain-specific documents for agriculture. - assets/resources/domains/humanities/: Humanities documents. - assets/resources/shared/: General guides (e.g., FAIR data principles) that apply to everyone.\nThis strict separation between code (.qmd), data (.csv), and files (assets/) ensures the repository remains easy to maintain even with thousands of resources.\n\n\n\n\nTo make contributions seamless, the site will implement a data-driven architecture. Instead of hardcoding resources into Markdown, structured data (e.g., lists of resources or ambassadors) will be pulled from data files (like data/resources.csv or data/ambassadors.csv). During the Quarto build process, this data is rendered dynamically. This empowers non-technical contributors to update the site simply by editing a spreadsheet or CSV file.\n\n\n\nThe site leverages Quarto’s built-in Bootstrap 5 integration: 1. Base Theme: Starting with the cosmo theme for a clean, professional baseline. 2. Customizations: The styles.scss overrides Bootstrap default variables to introduce a bespoke primary/secondary color palette. 3. Components: Custom utility classes (.hero-banner, .resource-card) are used extensively to create premium layouts and subtle animations that enhance user experience."
+  },
+  {
+    "objectID": "docs/ARCHITECTURE.html#overview",
+    "href": "docs/ARCHITECTURE.html#overview",
+    "title": "Project Architecture",
+    "section": "",
+    "text": "This repository contains the source code for the RDA Domain Ambassadors website, built using Quarto. It is designed to be a modern, dynamic static site that centralizes resources and ambassador profiles for the Research Data Alliance community."
+  },
+  {
+    "objectID": "docs/ARCHITECTURE.html#directory-structure",
+    "href": "docs/ARCHITECTURE.html#directory-structure",
+    "title": "Project Architecture",
+    "section": "",
+    "text": "To keep the project organized as it grows and participants add more resources, we use a modular and scalable structure:\n\n\n\n_quarto.yml: Main Quarto configuration (navigation, metadata, theme).\nstyles.scss: Custom styles (RDA colors, animations).\nindex.qmd, about.qmd: Main static pages.\n\n\n\n\n\ndocs/ARCHITECTURE.md: Technical project documentation (this file).\ndocs/UPDATES.md: History of changes and updates.\n\n\n\n\nInstead of creating a page for each resource, we use simple databases: - data/ambassadors.csv: Information about the ambassadors. - data/resources.csv: Metadata for all resources (title, author, domain, file link).\n\n\n\nTo avoid cluttering the root with .qmd files: - pages/ambassadors/index.qmd: Ambassadors directory. - pages/resources/index.qmd: Main resource search engine. - pages/contribute/index.qmd: Contribution guide for users.\n\n\n\nThis is where physical files (PDFs, images) are stored, organized logically to avoid chaos: - assets/images/ambassadors/: Profile pictures. - assets/resources/domains/agriculture/: Domain-specific documents for agriculture. - assets/resources/domains/humanities/: Humanities documents. - assets/resources/shared/: General guides (e.g., FAIR data principles) that apply to everyone.\nThis strict separation between code (.qmd), data (.csv), and files (assets/) ensures the repository remains easy to maintain even with thousands of resources."
+  },
+  {
+    "objectID": "docs/ARCHITECTURE.html#dynamic-content-workflow",
+    "href": "docs/ARCHITECTURE.html#dynamic-content-workflow",
+    "title": "Project Architecture",
+    "section": "",
+    "text": "To make contributions seamless, the site will implement a data-driven architecture. Instead of hardcoding resources into Markdown, structured data (e.g., lists of resources or ambassadors) will be pulled from data files (like data/resources.csv or data/ambassadors.csv). During the Quarto build process, this data is rendered dynamically. This empowers non-technical contributors to update the site simply by editing a spreadsheet or CSV file."
+  },
+  {
+    "objectID": "docs/ARCHITECTURE.html#theming-styling",
+    "href": "docs/ARCHITECTURE.html#theming-styling",
+    "title": "Project Architecture",
+    "section": "",
+    "text": "The site leverages Quarto’s built-in Bootstrap 5 integration: 1. Base Theme: Starting with the cosmo theme for a clean, professional baseline. 2. Customizations: The styles.scss overrides Bootstrap default variables to introduce a bespoke primary/secondary color palette. 3. Components: Custom utility classes (.hero-banner, .resource-card) are used extensively to create premium layouts and subtle animations that enhance user experience."
+  },
+  {
+    "objectID": "docs/UPDATES.html",
+    "href": "docs/UPDATES.html",
+    "title": "Updates & Changelog",
+    "section": "",
+    "text": "This document tracks all major updates, new features, and changes made to the RDA Domain Ambassadors website project.\n\n\n\n\n\nInitialized core Quarto website project structure.\nCreated _quarto.yml for global site configuration, search, and navigation.\nAdded custom styling via styles.scss for a modern, responsive design and micro-animations.\nScaffolded core pages: index.qmd (homepage with hero banner), about.qmd, ambassadors.qmd, resources.qmd, and contribute.qmd.\nCreated ARCHITECTURE.md to document the technical stack, styling methodology, and content workflows.\nCreated UPDATES.md to serve as a persistent changelog.\nReorganized project structure into /data, /pages, /assets, and /docs for better scalability.\nTranslated all project documentation and site scaffolding to English."
+  },
+  {
+    "objectID": "docs/UPDATES.html#unreleased",
+    "href": "docs/UPDATES.html#unreleased",
+    "title": "Updates & Changelog",
+    "section": "",
+    "text": "Initialized core Quarto website project structure.\nCreated _quarto.yml for global site configuration, search, and navigation.\nAdded custom styling via styles.scss for a modern, responsive design and micro-animations.\nScaffolded core pages: index.qmd (homepage with hero banner), about.qmd, ambassadors.qmd, resources.qmd, and contribute.qmd.\nCreated ARCHITECTURE.md to document the technical stack, styling methodology, and content workflows.\nCreated UPDATES.md to serve as a persistent changelog.\nReorganized project structure into /data, /pages, /assets, and /docs for better scalability.\nTranslated all project documentation and site scaffolding to English."
+  },
+  {
+    "objectID": "pages/contribute/index.html",
+    "href": "pages/contribute/index.html",
+    "title": "Get Involved & Contribute",
+    "section": "",
+    "text": "We welcome contributions from the entire RDA community! Whether you want to add a new guide, share a helpful video, or update an ambassador profile, you can do it here."
+  },
+  {
+    "objectID": "pages/contribute/index.html#how-to-contribute",
+    "href": "pages/contribute/index.html#how-to-contribute",
+    "title": "Get Involved & Contribute",
+    "section": "How to Contribute",
+    "text": "How to Contribute\nCurrently, the best way to add resources is by submitting a request or directly modifying our repository.\n\nOption 1: Add a Resource\n\nNavigate to our GitHub Repository (link coming soon).\nOpen the data/resources.csv file.\nAdd a new row with your resource details (Title, Type, Link).\nSubmit a Pull Request.\n\n\n\nOption 2: Edit a Page\nFound a typo or want to expand a section? You can edit any .qmd file in our repository. Quarto uses standard Markdown, making it easy to read and write.\nNeed help? Contact the site administrators."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "The RDA Domain Ambassadors are a network of disciplinary experts who bridge the gap between the global Research Data Alliance community and specific research domains.\nThese distinguished professionals work to navigate daily research data challenges while promoting RDA outputs and FAIR data principles within their respective fields.\n\n\n\nPromote: Share FAIR data practices and RDA outputs.\nConnect: Serve as a liaison between domain researchers and the RDA.\nSupport: Provide guidance, resources, and mentorship to domain communities."
+  },
+  {
+    "objectID": "about.html#the-rda-domain-ambassadors-program",
+    "href": "about.html#the-rda-domain-ambassadors-program",
+    "title": "About Us",
+    "section": "",
+    "text": "The RDA Domain Ambassadors are a network of disciplinary experts who bridge the gap between the global Research Data Alliance community and specific research domains.\nThese distinguished professionals work to navigate daily research data challenges while promoting RDA outputs and FAIR data principles within their respective fields.\n\n\n\nPromote: Share FAIR data practices and RDA outputs.\nConnect: Serve as a liaison between domain researchers and the RDA.\nSupport: Provide guidance, resources, and mentorship to domain communities."
+  }
+]
