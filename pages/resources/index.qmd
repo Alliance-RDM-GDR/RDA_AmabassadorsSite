@@ -1,0 +1,20 @@
+---
+title: "Resource Library"
+---
+
+Welcome to the Resource Library. This is a centralized hub for documents, tutorials, and useful links curated by our ambassadors.
+
+## 📄 Documents & Guides
+- [FAIR Data Principles Quickstart](../../index.qmd)
+- [Data Management Plan Templates](../../index.qmd)
+
+## 🎥 Video Hub
+- **Webinar:** Introduction to the RDA
+- **Tutorial:** Setting up your first data repository
+
+## 🔗 Useful Links
+- [RDA Global Website](https://www.rd-alliance.org/)
+- [Find a Working Group](https://www.rd-alliance.org/groups/)
+
+---
+*Note: In the next phase, this library will be dynamically generated from a central data file to allow easy filtering and sorting.*

@@ -1,0 +1,49 @@
+---
+title: "Welcome to the RDA Domain Ambassadors"
+---
+
+::: {.hero-banner}
+# Bridging the Data Gap
+Connecting the global Research Data Alliance community with specific research domains to promote FAIR data principles.
+
+[Explore Resources](pages/resources/index.qmd){.btn .btn-light .btn-lg .mt-3}
+:::
+
+## What We Do
+
+The RDA Domain Ambassadors are a network of disciplinary experts who work to navigate daily research data challenges.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.card .resource-card .h-100}
+::: {.card-body}
+### 📚 Resources
+Access curated documents, guides, and tools.
+
+[View Library &raquo;](pages/resources/index.qmd)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .resource-card .h-100}
+::: {.card-body}
+### 👥 Ambassadors
+Meet the experts leading domain data practices.
+
+[Meet Ambassadors &raquo;](pages/ambassadors/index.qmd)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .resource-card .h-100}
+::: {.card-body}
+### ✍️ Contribute
+Help grow our shared knowledge base.
+
+[Get Involved &raquo;](pages/contribute/index.qmd)
+:::
+:::
+:::
+:::

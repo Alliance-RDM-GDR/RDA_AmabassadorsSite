@@ -1,0 +1,14 @@
+---
+title: "About Us"
+---
+
+## The RDA Domain Ambassadors Program
+
+The RDA Domain Ambassadors are a network of disciplinary experts who bridge the gap between the global Research Data Alliance community and specific research domains. 
+
+These distinguished professionals work to navigate daily research data challenges while promoting RDA outputs and FAIR data principles within their respective fields.
+
+### Our Mission
+- **Promote:** Share FAIR data practices and RDA outputs.
+- **Connect:** Serve as a liaison between domain researchers and the RDA.
+- **Support:** Provide guidance, resources, and mentorship to domain communities.

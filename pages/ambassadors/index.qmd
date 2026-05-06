@@ -1,0 +1,33 @@
+---
+title: "Meet the Ambassadors"
+---
+
+Welcome to the RDA Domain Ambassadors directory. Here you can find experts across various research domains.
+
+*(Note: This page will be updated to automatically pull from our dynamic ambassador database.)*
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.card .resource-card}
+::: {.card-body}
+#### Jane Doe
+**Domain:** Agricultural Sciences  
+*Jane is an expert in crop data management and FAIR practices for agricultural datasets.*
+
+[Contact Jane](mailto:jane.doe@example.com)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .resource-card}
+::: {.card-body}
+#### John Smith
+**Domain:** Digital Humanities  
+*John focuses on preserving historical texts and interoperability standards for the humanities.*
+
+[Contact John](mailto:john.smith@example.com)
+:::
+:::
+:::
+:::
