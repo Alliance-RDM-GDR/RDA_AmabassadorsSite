@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: "RDA Domain Ambassadors"
-  description: "Bridging the gap between the global Research Data Alliance community and specific research domains."
+  title: "RDA ambassador"
+  description: "A starting point for connecting research communities with the Research Data Alliance (RDA), FAIR data practices, and domain-specific support."
   site-url: "https://www.rd-alliance.org/disciplines/rda-domain-ambassadors/"
   
   navbar:
@@ -19,7 +19,11 @@ website:
         file: pages/ambassadors/index.qmd
       - text: "Resources"
         file: pages/resources/index.qmd
+      - text: "News"
+        file: pages/news/index.qmd
     right:
+      - text: "FAQ"
+        file: pages/faq/index.qmd
       - text: "Contribute"
         file: pages/contribute/index.qmd
       - icon: github

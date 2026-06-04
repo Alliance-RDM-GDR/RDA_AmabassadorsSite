@@ -1,6 +1,6 @@
 # Updates & Changelog
 
-This document tracks all major updates, new features, and changes made to the RDA Domain Ambassadors website project.
+This document tracks all major updates, new features, and changes made to the RDA ambassador website project.
 
 ## [Unreleased]
 ### Added

@@ -2,19 +2,51 @@
 title: "Resource Library"
 ---
 
-Welcome to the Resource Library. This is a centralized hub for documents, tutorials, and useful links curated by our ambassadors.
+Welcome to the Resource Library. This section should become the practical knowledge hub of the site, where visitors can quickly find resources connected to RDA, FAIR data, and domain-specific needs.
 
-## 📄 Documents & Guides
-- [FAIR Data Principles Quickstart](../../index.qmd)
-- [Data Management Plan Templates](../../index.qmd)
+## What This Library Should Eventually Support
 
-## 🎥 Video Hub
-- **Webinar:** Introduction to the RDA
-- **Tutorial:** Setting up your first data repository
+- Featured resources for priority domains
+- Filtering by domain, topic, type, language, and audience
+- Clear links to RDA outputs, recommendations, and external materials
+- Short descriptions explaining why each resource is useful
 
-## 🔗 Useful Links
+## Featured Starter Categories
+
+### Documents and Guides
+- [RDA Global Website](https://www.rd-alliance.org/)
+- Data Management Plan templates
+- Practical guides for metadata, interoperability, and repository selection
+
+### Training and Video
+- Webinar: Introduction to RDA
+- Tutorial: Setting up your first data repository
+- Short explainers for domain communities and newcomers
+
+### RDA and Community Links
 - [RDA Global Website](https://www.rd-alliance.org/)
 - [Find a Working Group](https://www.rd-alliance.org/groups/)
+- [RDA for Disciplines](https://www.rd-alliance.org/disciplines/)
+
+## Example Curation Model
+
+Each resource entry can later include:
+
+- Title
+- Format
+- Domain
+- Topic
+- Audience
+- Source or owner
+- External link
+- Short summary
+
+## Suggested Priority Resource Collections
+
+- Getting started with FAIR data
+- RDA outputs relevant to your target domains
+- Training materials and slide decks
+- Use cases, case studies, and adoption stories
 
 ---
-*Note: In the next phase, this library will be dynamically generated from a central data file to allow easy filtering and sorting.*
+*In a next phase, this library can be dynamically generated from a central data file to allow filtering, sorting, and easier maintenance.*

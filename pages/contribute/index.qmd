@@ -2,19 +2,58 @@
 title: "Get Involved & Contribute"
 ---
 
-We welcome contributions from the entire RDA community! Whether you want to add a new guide, share a helpful video, or update an ambassador profile, you can do it here.
+We welcome contributions from the RDA community and from domain experts who want to strengthen this site over time. Whether you want to add a resource, suggest an event, or update an ambassador profile, this page should make that process clear.
 
-## How to Contribute
+## What People Should Be Able to Contribute
 
-Currently, the best way to add resources is by submitting a request or directly modifying our repository.
+- Resource guides, tutorials, and useful links
+- Ambassador profiles and profile updates
+- Event announcements, webinars, and news items
+- Case studies showing how RDA outputs are used in practice
 
-### Option 1: Add a Resource
-1. Navigate to our [GitHub Repository](#) (link coming soon).
-2. Open the `data/resources.csv` file.
-3. Add a new row with your resource details (Title, Type, Link).
-4. Submit a Pull Request.
+## Suggested Contribution Routes
 
-### Option 2: Edit a Page
-Found a typo or want to expand a section? You can edit any `.qmd` file in our repository. Quarto uses standard Markdown, making it easy to read and write.
+### Option 1: Submit a Resource or Update
 
-Need help? Contact the site administrators.
+Provide:
+
+- Title
+- Link or file
+- Resource type
+- Domain or topic
+- Short description
+- Suggested audience
+
+### Option 2: Update an Ambassador Profile
+
+Provide:
+
+- Name
+- Institution
+- Country
+- Domain focus
+- Expertise
+- Contact route
+
+### Option 3: Share News or Events
+
+Provide:
+
+- Event or update title
+- Date
+- Link
+- Short summary
+- Why it matters to the target community
+
+## Current Working Method
+
+For now, the simplest route is to manage updates through the repository and structured data files such as `data/resources.csv` and `data/ambassadors.csv`.
+
+Found a typo or want to expand a section? You can also edit the `.qmd` pages directly. Quarto uses standard Markdown, which keeps the site easy to maintain.
+
+## Recommended Next Improvements
+
+- Add a real repository link
+- Add a submission form or contact email
+- Add content guidelines for quality and consistency
+- Define who reviews and publishes contributions

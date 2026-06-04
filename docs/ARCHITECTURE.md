@@ -1,7 +1,7 @@
 # Project Architecture
 
 ## Overview
-This repository contains the source code for the RDA Domain Ambassadors website, built using [Quarto](https://quarto.org/). It is designed to be a modern, dynamic static site that centralizes resources and ambassador profiles for the Research Data Alliance community.
+This repository contains the source code for the RDA ambassador website, built using [Quarto](https://quarto.org/). It is designed to be a modern, dynamic static site that centralizes resources and ambassador profiles for the Research Data Alliance community.
 
 ## Directory Structure
 

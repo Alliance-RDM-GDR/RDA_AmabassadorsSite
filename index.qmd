@@ -1,24 +1,24 @@
 ---
-title: "Welcome to the RDA Domain Ambassadors"
+title: "RDA ambassador"
 ---
 
 ::: {.hero-banner}
-# Bridging the Data Gap
-Connecting the global Research Data Alliance community with specific research domains to promote FAIR data principles.
+# Connect Your Research Community with RDA
+This site is a starting point for connecting domain communities with the [Research Data Alliance (RDA)](https://www.rd-alliance.org/), FAIR data practices, and practical resources that support data sharing and reuse.
 
 [Explore Resources](pages/resources/index.qmd){.btn .btn-light .btn-lg .mt-3}
 :::
 
-## What We Do
+## Why This Site Matters
 
-The RDA Domain Ambassadors are a network of disciplinary experts who work to navigate daily research data challenges.
+RDA ambassadors help bridge the gap between the global RDA community and domain-specific research practice. They support awareness of RDA outputs, connect communities with relevant expertise, and help translate FAIR and open science approaches into disciplinary contexts.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .resource-card .h-100}
 ::: {.card-body}
-### 📚 Resources
-Access curated documents, guides, and tools.
+### Resource Discovery
+Browse guides, tools, outputs, and training materials that can be adapted to your community.
 
 [View Library &raquo;](pages/resources/index.qmd)
 :::
@@ -28,8 +28,8 @@ Access curated documents, guides, and tools.
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .resource-card .h-100}
 ::: {.card-body}
-### 👥 Ambassadors
-Meet the experts leading domain data practices.
+### Community Connectors
+Find ambassadors, understand their expertise, and identify who to contact for outreach or collaboration.
 
 [Meet Ambassadors &raquo;](pages/ambassadors/index.qmd)
 :::
@@ -39,11 +39,43 @@ Meet the experts leading domain data practices.
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card .resource-card .h-100}
 ::: {.card-body}
-### ✍️ Contribute
-Help grow our shared knowledge base.
+### Contribute
+Add resources, suggest updates, and help strengthen links between RDA and your discipline.
 
 [Get Involved &raquo;](pages/contribute/index.qmd)
 :::
 :::
 :::
 :::
+
+## Start Here
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### I am looking for support
+- Explore domain-relevant materials in the [Resource Library](pages/resources/index.qmd)
+- Find the right contact in the [Ambassadors Directory](pages/ambassadors/index.qmd)
+- Learn the context and purpose of the initiative on the [About page](about.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### I want to contribute
+- Suggest a new resource, case study, or guide
+- Share an ambassador profile or update an existing one
+- Submit community news, events, or opportunities relevant to RDA and FAIR data
+:::
+:::
+
+## What You Can Build Here
+
+- A visible entry point for your local or thematic RDA ambassador activity
+- A curated resource hub organized by domain, topic, and format
+- A public directory of ambassadors with expertise, affiliations, and contact routes
+- A lightweight channel for community news, events, and calls to action
+
+## Suggested Next Content
+
+- Featured resources for 3 to 5 priority domains
+- Ambassador profiles with institution, country, expertise, and links
+- A short explanation of how this initiative connects to the wider RDA ecosystem
+- A first set of events, webinars, or recent updates

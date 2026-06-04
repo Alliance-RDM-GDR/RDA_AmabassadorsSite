@@ -1,0 +1,30 @@
+---
+title: "FAQ"
+---
+
+## What is RDA?
+
+The [Research Data Alliance (RDA)](https://www.rd-alliance.org/) is a global, community-driven organisation that works to enable research data sharing and reuse across disciplines, technologies, and countries.
+
+## What is an RDA ambassador in the context of this site?
+
+An RDA ambassador, as presented here, is someone who helps connect a research community, discipline, or thematic area with relevant RDA practices, outputs, and collaboration opportunities.
+
+## Is this website the official global RDA website?
+
+No. The global RDA website is [rd-alliance.org](https://www.rd-alliance.org/). This site should be understood as a supporting entry point connected to ambassador activity within the broader RDA ecosystem.
+
+## What kind of resources can be published here?
+
+Guides, tutorials, videos, links, case studies, event information, and other materials that help communities engage with FAIR data and relevant RDA work.
+
+## Who should use this site?
+
+- Researchers and data practitioners
+- Community coordinators and trainers
+- People looking for domain-relevant FAIR and RDA materials
+- Contributors who want to share resources or updates
+
+## How can someone contribute?
+
+They can contribute by proposing resources, updating ambassador profiles, sharing events, or suggesting improvements to the site structure and content.

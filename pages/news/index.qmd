@@ -1,0 +1,34 @@
+---
+title: "News & Events"
+---
+
+This page can serve as a lightweight editorial stream for the ambassador initiative. It helps the site feel active and gives visitors a reason to return.
+
+## What Belongs Here
+
+- Upcoming webinars and workshops
+- New resources added to the library
+- Ambassador highlights or interviews
+- Calls for participation
+- Relevant RDA news for target communities
+
+## Suggested Post Format
+
+Each item can later include:
+
+- Title
+- Date
+- Type of update
+- Short summary
+- Link to more information
+
+## Example Entries
+
+### Upcoming Webinar on FAIR Data in Agriculture
+Short placeholder summary explaining what the event is, who it is for, and why it matters.
+
+### New Resource Collection for Digital Humanities
+Short placeholder summary highlighting what was added and who may benefit from it.
+
+### Community Call for Ambassador Contributions
+Short placeholder summary inviting new collaborators, profile updates, or resource suggestions.

@@ -2,13 +2,34 @@
 title: "About Us"
 ---
 
-## The RDA Domain Ambassadors Program
+## About the Initiative
 
-The RDA Domain Ambassadors are a network of disciplinary experts who bridge the gap between the global Research Data Alliance community and specific research domains. 
+This website is designed as a starting point for an RDA ambassador initiative connected to the broader [Research Data Alliance (RDA)](https://www.rd-alliance.org/) ecosystem.
 
-These distinguished professionals work to navigate daily research data challenges while promoting RDA outputs and FAIR data principles within their respective fields.
+RDA is a global, community-driven organisation that works to enable the open sharing and reuse of research data across disciplines, technologies, and countries. Within that context, ambassadors can help translate RDA outputs, FAIR data practices, and open science approaches into the needs of specific communities.
 
 ### Our Mission
-- **Promote:** Share FAIR data practices and RDA outputs.
-- **Connect:** Serve as a liaison between domain researchers and the RDA.
-- **Support:** Provide guidance, resources, and mentorship to domain communities.
+- **Promote:** Share FAIR data practices, open science approaches, and relevant RDA outputs.
+- **Connect:** Act as a bridge between domain communities and the wider RDA network.
+- **Support:** Provide orientation, resources, and practical pathways for adoption.
+
+### How This Fits into RDA
+
+- RDA provides the wider international community, working groups, interest groups, recommendations, and outputs.
+- This site can serve as a local, thematic, or programme-level entry point for ambassador activities.
+- Ambassadors can help communities discover where RDA is useful in day-to-day research data practice.
+
+### What This Website Can Be Used For
+
+- Presenting the purpose and scope of the ambassador initiative
+- Publishing ambassador profiles and areas of expertise
+- Curating resources for specific disciplines or use cases
+- Sharing updates, events, and community opportunities
+- Providing a simple route for contributions and collaboration
+
+### Recommended Governance Information to Add Later
+
+- Coordination team or responsible organisation
+- Scope of the ambassador role
+- Selection or participation model
+- Contact point for questions and partnership requests
